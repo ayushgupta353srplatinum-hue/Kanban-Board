@@ -82,9 +82,9 @@ http://localhost:5173
 This project was built as part of an advanced frontend mission to practice modern React development techniques without direct DOM manipulation.
 
 It follows the "React Way" — where UI updates automatically based on state changes.
-### YouTube Link
+# YouTube Link
 
-### Live Deplyoment Link
-### HomePage Screen Shot
+# Live Demo Link
 
-
+# Screenshots
+![Home Screen](Week-3Screenshot.png)
