@@ -87,4 +87,4 @@ It follows the "React Way" — where UI updates automatically based on state cha
 # Live Demo Link
 
 # Screenshots
-![Home Screen](Week-5 SS.png)
+![Home Screen](Week-5ss.png)
