@@ -85,6 +85,6 @@ It follows the "React Way" — where UI updates automatically based on state cha
 # YouTube Link
 kanban-board-eight-beta.vercel.app
 # Live Demo Link
-kanban-board-eight-beta.vercel.app
+[kanban-board-eight-beta.vercel.app](https://kanban-board-eight-beta.vercel.app/)
 # Screenshots
 ![Home Screen](week-5ss.png)
